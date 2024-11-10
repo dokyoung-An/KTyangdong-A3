@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.0.10/20025
 // Filename: KT ?? -a3.ggsk
-// Generated 2024-11-10T16:55:04
+// Generated 2024-11-10T16:57:13
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_minimap_button', 2, false, { ignoreInState: 0  });
@@ -8671,10 +8671,7 @@ function pano2vrSkin(player,base) {
 		el=me._image_11=document.createElement('div');
 		els=me._image_11__img=document.createElement('img');
 		els.className='ggskin ggskin_image_11';
-		hs='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIsAAAAOCAYAAAAfZO+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAR2SURBVHgB7VlbSFRRFN0zjjqFaWEfRYRW2oselL1+6qOPonf0E330LnugFEFGfSRRUpZWBkX1KRQVfaRGQY8PMelLqAgijDJB6IGa42Q6Nk5rd8/F48yde851Bh/ggsW5c+8+++x77j5773OGQqFQh8RzpEBbW1uFJF8LJtvJ4/la8HvYOMxGcBZpArIZ4CfwN9gu6AN/CbaCzeAWqc9HJ+8GmTXgNwtbZfK7TBDyexWyKh4WetyyrX6//7yGreuFLZ1hfANOIk1AdjL4zsI2P5gPukxZDzhK6puoUu71ehOlPl6yN2QPmlJwrMXjyWAVT7jL5apW6FmG5i'+
-			'44hRRoaWlJkH56JVsTFWPsR3Mxiq0yukFzAsPnzyk80nWypMtj10nYWgyOs3g8H3wEmR2Y1w8KPVloKsFoi5bnIxlypdAVcpNDJCUl9ahkxErZi8vLZD/508CHkF1oo4tf/h5pOIrZhRwA+j3gQVyWkNpRBh2wdSeaa2TtKCYWgU8hm2mjZx6a5xTdURi82DjKFXCEsfXg/qKjo2MBItBYt9tdZCO2HNwAjgcrYcxSeG+TLCDS1FLwOmnC4/G8JWfIAUeDyjQlwJGlRVy/Bk9ayEwHd1FvBLoDvreQqyUH8Pl8PGdp4Glxy1zs8gLeSsY7ZYDlXAZgXv2yHtybiWYJeCPaWN3d3RMTEhIO4Ruyw5wFG7mjjGJSADKPJfm68JqFPT8QCNQUFhaqQmm+pKeLc2fY8xzwC9jvMI++X+3eTdjwkuIM6FwB9khjr1fIcyRu'+
-			'MIVRs1yykMnDIqwi9djl0rhcB40Je54pxsqw09PU1DQzGAy2S7oKHach6uvFshEucDsur5Ii56ogcimvxkzQyw6jQWW9Jenn1JOPS458/ZmDAQVs3YemBBHCSzEAemajeUFGvWiL1NRUjoou+R5/1FD4TdWYUe5vAm+Toug1UV9f787Ozo5UHgpNJaNGmSFuVZNeHfKAjI+vgx1kOPVwcJQDaMrIKIBj0cOp8T4ZdaKy7kxJSYnwCXYWzn+cd0dTbOCVqu352LVYOii25ivT0tJypFtzSQ81pA/+AEPeUQRyqX+OEiRjQZj1ympwDsUAN0IbF3a6xR3D0W5jBIOCLrAAvMlbXooTzNqCz0I6wQkafZQhTAfp6em6qY9DZ1BDro5GwGBHOQreitFRLGsWgtIAmivIa5tAzvt26WSBdP2Z9D5kBLKysnTTwG7Y94fiiw'+
-			'ZwMRmTMQPvfCHsuZv6TpQ8cWxLMWxqp4EBz/H/cyiccU2DraWSPaZNQaktB1/FIaJY1iy9T12uCnFYc4rU4AOdXPT5S8MPXAckgZvBieAJB319ZJz7DJSz8F8CqeAqnHnwweSxKHL8HY5TfBzFElarm/f4R8hIS1bgNPQM3AajWmkYAna3oeHtKK/CIV2DwdafaPhIwq6A52h3BiyLo6NERJYIZ8FgnSAfJ7OXBiyU8MHQRsg0U2wY1N2IsJ93ReU0xAFbf6BZBz6xeMzfKA8sinNEiahZ/gG9TRLUcv054gAAAABJRU5ErkJggg==';
+		hs=basePath + 'images/image_11.png';
 		els.setAttribute('src',hs);
 		els.ggNormalSrc=hs;
 		hs ='';
@@ -8686,18 +8683,18 @@ function pano2vrSkin(player,base) {
 		el.appendChild(els);
 		el.ggSubElement = els;
 		el.ggId="Image 11";
-		el.ggDy=0;
+		el.ggDy=-5;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=false;
 		el.className="ggskin ggskin_image ";
 		el.ggType='image';
 		hs ='';
-		hs+='height : 9px;';
-		hs+='left : 0px;';
+		hs+='height : 21px;';
+		hs+='left : 20px;';
 		hs+='position : absolute;';
-		hs+='top : calc(50% - ((9px + 0px) / 2) + 0px);';
+		hs+='top : calc(50% - ((21px + 0px) / 2) - 5px);';
 		hs+='visibility : hidden;';
-		hs+='width : 99px;';
+		hs+='width : 80px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -8733,7 +8730,7 @@ function pano2vrSkin(player,base) {
 		el.ggId="\ub85c\uace0 \ubaa8\ubc14\uc77c3-m";
 		el.ggDy=-5;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
-		el.ggVisible=true;
+		el.ggVisible=false;
 		el.className="ggskin ggskin_image ";
 		el.ggType='image';
 		hs ='';
@@ -8741,7 +8738,7 @@ function pano2vrSkin(player,base) {
 		hs+='left : 20px;';
 		hs+='position : absolute;';
 		hs+='top : calc(50% - ((21px + 0px) / 2) - 5px);';
-		hs+='visibility : inherit;';
+		hs+='visibility : hidden;';
 		hs+='width : 80px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
@@ -8838,7 +8835,7 @@ function pano2vrSkin(player,base) {
 		hs+='border : 0px solid #000000;';
 		hs+='cursor : pointer;';
 		hs+='height : 100%;';
-		hs+='left : -1px;';
+		hs+='left : 0px;';
 		hs+='position : absolute;';
 		hs+='top : 0px;';
 		hs+='visibility : inherit;';
