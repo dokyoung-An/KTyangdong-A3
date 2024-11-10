@@ -228,6 +228,6 @@
       <sequence title="Animation01"/>
     </animationsequences>
   </masternode>
-  <map tileformat="jpg" transparent="0" height="1500" type="file" id="FloorPlan01" crispedges="0" floorplannorth="0" zoomlevels="1" bgcolor="rgba(255, 255, 255, 1)" width="1500" title="" index="0"/>
-  <map tileformat="jpg" transparent="0" height="1500" type="file" id="FloorPlan02" crispedges="0" floorplannorth="0" zoomlevels="1" bgcolor="rgba(255, 255, 255, 1)" width="1500" title="" index="1"/>
+  <map tileformat="png" transparent="1" height="1500" type="file" id="FloorPlan01" crispedges="0" floorplannorth="0" zoomlevels="1" bgcolor="rgba(255, 255, 255, 0)" width="1500" title="" index="0"/>
+  <map tileformat="png" transparent="1" height="1500" type="file" id="FloorPlan02" crispedges="0" floorplannorth="0" zoomlevels="1" bgcolor="rgba(255, 255, 255, 0)" width="1500" title="" index="1"/>
 </tour>
