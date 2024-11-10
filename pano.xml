@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="7.0.10" apprev="20025">
+  <panorama id="node1" hideabout="1">
+    <input levelingpitch="0" levelbiashidpi="1.000" width="2000" leveltilesize="510" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-108.18" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" nodeid="node1" title="현관" copyright="" customnodeid="" author="" info="" longitude="" latitude="" tags="ON|가구ON" heading="-108.18" source="" datetime="">
+      <mapcoords x_floorplan_percent="72.2667" y="-1.14258" mapid="FloorPlan01" x="1.48865" y_floorplan_percent="55.4667"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label textcolor="0x000000" width="180" borderalpha="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0"/>
+      <hotspot pan="-359.14" description="" skinid="ht_node" id="Point01" title="주방" tilt="-28.65" url="{node2}" target=""/>
+      <hotspot pan="-49.66" description="" skinid="ht_node" id="Point02" title="욕실" tilt="-35.47" url="{node4}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="0" enabled="1" blendtime="1" zoomafterinfov="140" delay="none" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomafteroutfov="40"/>
+    <autorotate speed="0.020" nodedelay="0.00" enabled="1" horizonfromdefview="0" nodefilter="" returntohorizon="0.000" delay="9.00" startloaded="0" useanimation="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedwheel="0" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" speedwheel="1" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelingpitch="0" levelbiashidpi="1.000" width="2000" leveltilesize="510" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-185.073" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" nodeid="node2" title="주방" copyright="" customnodeid="" author="" info="" longitude="" latitude="" tags="ON|가구ON" heading="-185.073" source="" datetime="">
+      <mapcoords x_floorplan_percent="57.6" y="-1.14807" mapid="FloorPlan01" x="1.18652" y_floorplan_percent="55.7333"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label textcolor="0x000000" width="180" borderalpha="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0"/>
+      <hotspot pan="-272.3" description="" skinid="ht_node" id="Point01" title="현관" tilt="-26.04" url="{node1}" target=""/>
+      <hotspot pan="-162.55" description="" skinid="ht_node" id="Point02" title="침실" tilt="-18.76" url="{node3}" target=""/>
+      <hotspot pan="-254.3" description="" skinid="ht_node" id="Point03" title="욕실" tilt="-24.98" url="{node4}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="0" enabled="1" blendtime="1" zoomafterinfov="140" delay="none" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomafteroutfov="40"/>
+    <autorotate speed="0.020" nodedelay="0.00" enabled="1" horizonfromdefview="0" nodefilter="" returntohorizon="0.000" delay="9.00" startloaded="0" useanimation="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedwheel="0" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" speedwheel="1" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelingpitch="0" levelbiashidpi="1.000" width="2000" leveltilesize="510" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-85.6561" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" nodeid="node3" title="침실" copyright="" customnodeid="" author="" info="" longitude="" latitude="" tags="ON|가구ON" heading="-85.6561" source="" datetime="">
+      <mapcoords x_floorplan_percent="50.4" y="-0.834961" mapid="FloorPlan01" x="1.03821" y_floorplan_percent="40.5333"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label textcolor="0x000000" width="180" borderalpha="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0"/>
+      <hotspot pan="-235.54" description="" skinid="ht_node" id="Point01" title="주방" tilt="-15.94" url="{node2}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="0" enabled="1" blendtime="1" zoomafterinfov="140" delay="none" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomafteroutfov="40"/>
+    <autorotate speed="0.020" nodedelay="0.00" enabled="1" horizonfromdefview="0" nodefilter="" returntohorizon="0.000" delay="9.00" startloaded="0" useanimation="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedwheel="0" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" speedwheel="1" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelingpitch="0" levelbiashidpi="1.000" width="2000" leveltilesize="510" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-87.192" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" nodeid="node4" title="욕실" copyright="" customnodeid="" author="" info="" longitude="" latitude="" tags="ON|가구ON" heading="-87.192" source="" datetime="">
+      <mapcoords x_floorplan_percent="70.9333" y="-0.933838" mapid="FloorPlan01" x="1.46118" y_floorplan_percent="45.3333"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label textcolor="0x000000" width="180" borderalpha="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0"/>
+      <hotspot pan="-315.85" description="" skinid="ht_node" id="Point01" title="주방" tilt="-37.93" url="{node2}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="0" enabled="1" blendtime="1" zoomafterinfov="140" delay="none" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomafteroutfov="40"/>
+    <autorotate speed="0.020" nodedelay="0.00" enabled="1" horizonfromdefview="0" nodefilter="" returntohorizon="0.000" delay="9.00" startloaded="0" useanimation="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedwheel="0" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" speedwheel="1" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelingpitch="0" levelbiashidpi="1.000" width="2000" leveltilesize="510" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="282.668" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" nodeid="node5" title="현관" copyright="" customnodeid="" author="" info="" longitude="" latitude="" tags="OFF|가구OFF" heading="282.668" source="" datetime="">
+      <mapcoords x_floorplan_percent="68" y="-1.15356" mapid="FloorPlan02" x="1.40076" y_floorplan_percent="56"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label textcolor="0x000000" width="180" borderalpha="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0"/>
+      <hotspot pan="-359.14" description="" skinid="ht_node" id="Point01" title="주방" tilt="-28.65" url="{node6}" target=""/>
+      <hotspot pan="-49.66" description="" skinid="ht_node" id="Point02" title="욕실" tilt="-35.47" url="{node8}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="0" enabled="1" blendtime="1" zoomafterinfov="140" delay="none" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomafteroutfov="40"/>
+    <autorotate speed="0.020" nodedelay="0.00" enabled="1" horizonfromdefview="0" nodefilter="" returntohorizon="0.000" delay="9.00" startloaded="0" useanimation="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedwheel="0" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" speedwheel="1" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelingpitch="0" levelbiashidpi="1.000" width="2000" leveltilesize="510" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="183.783" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" nodeid="node6" title="주방" copyright="" customnodeid="" author="" info="" longitude="" latitude="" tags="OFF|가구OFF" heading="183.783" source="" datetime="">
+      <mapcoords x_floorplan_percent="50.6667" y="-1.15356" mapid="FloorPlan02" x="1.0437" y_floorplan_percent="56"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label textcolor="0x000000" width="180" borderalpha="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0"/>
+      <hotspot pan="-272.3" description="" skinid="ht_node" id="Point01" title="현관" tilt="-26.04" url="{node5}" target=""/>
+      <hotspot pan="-162.55" description="" skinid="ht_node" id="Point02" title="침실" tilt="-18.76" url="{node7}" target=""/>
+      <hotspot pan="-254.3" description="" skinid="ht_node" id="Point03" title="욕실" tilt="-24.98" url="{node8}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="0" enabled="1" blendtime="1" zoomafterinfov="140" delay="none" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomafteroutfov="40"/>
+    <autorotate speed="0.020" nodedelay="0.00" enabled="1" horizonfromdefview="0" nodefilter="" returntohorizon="0.000" delay="9.00" startloaded="0" useanimation="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedwheel="0" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" speedwheel="1" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelingpitch="0" levelbiashidpi="1.000" width="2000" leveltilesize="510" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-91.6757" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" nodeid="node7" title="침실" copyright="" customnodeid="" author="" info="" longitude="" latitude="" tags="OFF|가구OFF" heading="-91.6757" source="" datetime="">
+      <mapcoords x_floorplan_percent="49.8667" y="-0.840454" mapid="FloorPlan02" x="1.02722" y_floorplan_percent="40.8"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label textcolor="0x000000" width="180" borderalpha="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0"/>
+      <hotspot pan="-235.54" description="" skinid="ht_node" id="Point01" title="주방" tilt="-15.94" url="{node6}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="0" enabled="1" blendtime="1" zoomafterinfov="140" delay="none" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomafteroutfov="40"/>
+    <autorotate speed="0.020" nodedelay="0.00" enabled="1" horizonfromdefview="0" nodefilter="" returntohorizon="0.000" delay="9.00" startloaded="0" useanimation="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedwheel="0" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" speedwheel="1" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelingpitch="0" levelbiashidpi="1.000" width="2000" leveltilesize="510" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" height="2000">
+      <level predecode="0" width="2000" height="2000" preload="0"/>
+      <level predecode="0" width="1000" height="1000" preload="0"/>
+      <level predecode="1" width="500" height="500" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="260.849" fovmode="2">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max fovstereographic="330" pan="360" fov="140" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata description="" comment="" nodeid="node8" title="욕실" copyright="" customnodeid="" author="" info="" longitude="" latitude="" tags="OFF|가구OFF" heading="260.849" source="" datetime="">
+      <mapcoords x_floorplan_percent="69.3333" y="-0.97229" mapid="FloorPlan02" x="1.42822" y_floorplan_percent="47.2"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label textcolor="0x000000" width="180" borderalpha="1" wordwrap="1" borderradius="1" backgroundalpha="1" background="1" enabled="1" textalpha="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" height="20"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0"/>
+      <hotspot pan="-315.85" description="" skinid="ht_node" id="Point01" title="주방" tilt="-37.93" url="{node6}" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" zoomin="0" enabled="1" blendtime="1" zoomafterinfov="140" delay="none" zoomoutpause="1" type="crossdissolve" zoomfov="40" zoomafteroutfov="40"/>
+    <autorotate speed="0.020" nodedelay="0.00" enabled="1" horizonfromdefview="0" nodefilter="" returntohorizon="0.000" delay="9.00" startloaded="0" useanimation="0" noderandom="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0" clipsrandom="0"/>
+    <control lockedwheel="0" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" contextvr="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" simulatemass="1" speedwheel="1" rubberband="0" zoomcentercursor="1" contextfullscreen="1" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata description="A3" author="" comment="" tags="" title="자양동 오피스텔 A3 타입" copyright="24.20"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map width="1500" tileformat="jpg" crispedges="0" bgcolor="rgba(255, 255, 255, 1)" id="FloorPlan01" title="" floorplannorth="0" transparent="0" zoomlevels="1" index="0" type="file" height="1500"/>
+  <map width="1500" tileformat="jpg" crispedges="0" bgcolor="rgba(255, 255, 255, 1)" id="FloorPlan02" title="" floorplannorth="0" transparent="0" zoomlevels="1" index="1" type="file" height="1500"/>
+</tour>
